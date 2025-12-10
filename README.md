@@ -1,4 +1,3 @@
-# Blinkit_Style_Sales_Prediction
 # Blinkit-Style Sales Prediction 
 
 This project is a simplified version of a Blinkit-style sales prediction system.  
@@ -72,14 +71,3 @@ Model predicts sales for a new outlet-item combination.
 - Seaborn  
 
 ---
-
-## 📌 **Why This Project Stands Out**
-- Clean & professional notebook  
-- Matches assignment requirements exactly  
-- Blinkit-branded visuals  
-- Easy to understand and explain in interviews  
-
----
-
-## 📞 Contact
-Feel free to reach out if you’d like improvements or deployment assistance.
